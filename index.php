@@ -104,4 +104,5 @@ if(preg_match($padrao, $nome)){
 }else{
     echo "ERRO!";
 }
+//Continua...
 ?>
