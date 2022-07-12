@@ -28,7 +28,7 @@ if(preg_match($padrao, $nome)){
 
 echo "<br>";
 
-$nome = "95039414404";
+$nome = "95039415611";
 $padrao = "/^[0-9]{11}$/";
 
 if(preg_match($padrao, $nome)){
