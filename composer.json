@@ -1,0 +1,11 @@
+{
+    "name": "jose/regex",
+    "description": "Exemplos de regex em Php.",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
