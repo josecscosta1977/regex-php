@@ -1,4 +1,15 @@
 <?php 
+require "vendor/autoload.php";
+
+use App\classeregex\ClasseRegex;
+
+$regex = new ClasseRegex();
+
+
+
+
+
+
 echo("EXPRESSÕES REGULARES PHP - 03/04/22");
 echo "<br><br>";
 
